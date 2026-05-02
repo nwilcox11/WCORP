@@ -21,3 +21,5 @@ I want it to be extremely clear what I am looking for.
 
 6) LVN Interaction
     - Prices tests a Developing profile LVN and reverses
+
+7) VWAP Break & Retest
