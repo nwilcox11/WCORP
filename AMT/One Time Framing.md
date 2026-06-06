@@ -2,7 +2,7 @@
 ****
 **Daily one-time framing down (OTFD)**
 - Bearish market structure indicating sellers are in control
-- **_Each subsequent bar forms a lower high, signaling a strong downward trend._**.
+- **_Each subsequent bar forms a lower high, signaling a strong downward trend._**
 	- Lower **highs** bar after bar.
 - This pattern is considered over when market makes a **high** that exceeds the previous bar's **high**.
 - Generally require 3 bars
