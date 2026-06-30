@@ -35,3 +35,25 @@ News
 - Google Finance front page
 
 obsidian.nvim
+
+****
+**After tomorrow's trading day (because of rollover)**
+- Lets start marking out **previous day** profiles on the hourly chart.
+
+**HVN**
+- Who is stuck?
+- Where do they need to defend
+
+**LVN**
+- Price does not want to be here.
+
+**H4**
+- Major Swings
+**H1**
+- Refine
+
+****
+
+**On my chart**
+- HTF Levels - support and resistance
+- Volume profile market generated levels

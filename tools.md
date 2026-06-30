@@ -10,3 +10,5 @@
 - Footprint
 - Delta
     - 30 min reset?
+
+![[TPO-Ranges.png]]
